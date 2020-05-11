@@ -3,10 +3,13 @@
     "version": "1.0.0",
     "name": "Bot Info",
     "description": "Returns bot info.",
-    "section": "Bot Info",
-    "sectionID": "bot-info",
+    "section": "Dashboard",
+    "sectionID": "dashboard",
     "dashboardMod": true,
     "adminPanelMod": true,
     "scriptFile": "bot_info.js",
-    "webFile": "index.ejs"
+    "webFile": "index.ejs",
+    "size": {
+        "width": 600
+    }
 }

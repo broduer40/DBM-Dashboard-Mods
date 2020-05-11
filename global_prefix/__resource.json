@@ -1,0 +1,15 @@
+{
+    "author": "Great Plains Modding",
+    "version": "1.0.1",
+    "name": "Global Prefix",
+    "description": "Change the bots global prefix.",
+    "section": "Dashboard",
+    "sectionID": "dashboard",
+    "dashboardMod": false,
+    "adminPanelMod": true,
+    "scriptFile": "index.js",
+    "webFile": "index.ejs",
+    "size": {
+        "width": 600
+    }
+}
